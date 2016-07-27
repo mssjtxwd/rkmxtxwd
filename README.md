@@ -8,7 +8,7 @@
 
 ### FFT
 		sample:
-		[bzoj 3160](http://www.lydsy.com/JudgeOnline/problem.php?id=3160) 枚举字符+FFT统计回文子序列
+		[bzoj 3160](http://www.lydsy.com/JudgeOnline/problem.php?id=3160) `枚举`字符+FFT统计回文子序列
 
 ### LCT
 
